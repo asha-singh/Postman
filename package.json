@@ -5,7 +5,7 @@
   "main": "index.js",
  "directories":{"test": "Test_1"}, 
 "scripts": {
-    "api-tes-systest":"newman run Test_1/Collection_Test_1.postman_collection.json"
+    "api-tes-systest":"newman run Test_1/Collection_Test_1.postman_collection.json --reporter-junit-export newman.xml"
   },
   "author": "asha",
   "license": "ISC"
