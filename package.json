@@ -1,7 +1,7 @@
 {
   "name": "Postman",
   "version": "1.0.0",
-  "description": "",
+  "description": "nodejs project",
   "main": "index.js",
  "directories":{"test": "Test_1"}, 
 "scripts": {
